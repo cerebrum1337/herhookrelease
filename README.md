@@ -6,3 +6,4 @@ Whats Her Hook?
 # HerHook Discord
 https://discord.gg/FDhArZFt
 # HerHook Downloads
+https://github.com/cerebrum1337/herhookrelease/releases/tag/herhook
